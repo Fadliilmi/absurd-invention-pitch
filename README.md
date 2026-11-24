@@ -6,7 +6,7 @@
 
 An entry for the [One-Sentence Absurd Invention Pitch](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a) bounty on make.fun: one sentence pitching a ridiculous invention that fixes a tiny everyday annoyance — a remote control that never stays where you left it.
 
-> The Remote Control Finder is a second remote that beeps accusingly at the first one until it confesses where it hid under the couch cushions.
+> The Remote Control Finder is a second remote that interrogates the first one, beeping accusingly until it confesses where it hid under the couch cushions.
 
 ## How it works
 
